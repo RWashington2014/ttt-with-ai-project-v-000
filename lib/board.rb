@@ -5,7 +5,7 @@ class Board
   end
 
   def cells
-    
+
   end
 
 end
