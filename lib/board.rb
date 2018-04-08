@@ -1,11 +1,12 @@
 class Board
 
+attr_accessor :cells
+  
+
   def initialize
 
   end
 
-  def cells
-
-  end
+  
 
 end
