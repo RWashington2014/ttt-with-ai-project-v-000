@@ -8,9 +8,9 @@ attr_accessor :cells
   end
 
   def reset!
-    
+    @cells.clear
   end
-  
+
 
 
 end
